@@ -107,3 +107,4 @@ Uploaded in Scrennshots folder of repository.
 - Windows Event Log analysis (Event ID 4625)
 - MITRE ATT&CK framework mapping
 - Incident documentation and reporting
+
